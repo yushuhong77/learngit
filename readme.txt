@@ -12,3 +12,5 @@ $ git add readme.txt
 $ git commit -m "wrote a readme file"
 $ git status
 $ git diff readme.txt 
+
+leaning git 20190714
